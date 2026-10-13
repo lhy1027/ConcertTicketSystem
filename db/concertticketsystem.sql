@@ -14,6 +14,8 @@
  Date: 13/10/2026 09:39:58
 */
 
+CREATE DATABASE IF NOT EXISTS `springbooth56pqtxo` DEFAULT CHARACTER SET utf8mb4;
+USE `springbooth56pqtxo`;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
