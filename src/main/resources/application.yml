@@ -11,8 +11,8 @@ spring:
     datasource:
         driverClassName: com.mysql.cj.jdbc.Driver
         url: jdbc:mysql://127.0.0.1:3306/springbooth56pqtxo?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&useSSL=false
-        username: root
-        password: root
+        username: ${DB_USERNAME:root}
+        password: ${DB_PASSWORD:root}
 
 
     servlet:
