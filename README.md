@@ -35,6 +35,20 @@
 | 系统配置 | 轮播图、系统参数等配置 |
 | 文件上传 | 通用文件/图片上传接口 |
 
+## 系统截图
+
+| 用户注册 | 用户登录 |
+| --- | --- |
+| ![用户注册](docs/screenshots/01-user-register.png) | ![用户登录](docs/screenshots/02-user-login.png) |
+
+| 票务浏览筛选 | 用户消息发送 |
+| --- | --- |
+| ![票务浏览](docs/screenshots/03-ticket-browse.png) | ![消息发送](docs/screenshots/04-message-send.png) |
+
+| 工作人员回复消息 | 后台轮播图配置 |
+| --- | --- |
+| ![工作人员回复](docs/screenshots/05-worker-reply.png) | ![轮播图配置](docs/screenshots/06-carousel-edit.png) |
+
 ## 项目结构
 
 ```
